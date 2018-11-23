@@ -6,4 +6,4 @@
 ### Built with React, Snack, and Expo
 
 * Screenshot of front page:
-<img src="/assets/frontpage.png" width="200px" />
+<img src="/assets/frontpage.png" width="200px" border="black" />
