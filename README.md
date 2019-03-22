@@ -1,6 +1,6 @@
 # VioletHacks 2018
 
-## Team MOOVE - transportation cost comparison app . 
+## Team MOOVE - transportation cost comparison app
 
 (built with React Native, Expo, and Sketch)
 
